@@ -16,4 +16,11 @@ package selectionsort;
  */
 public class SelectionSort {
     
+    
+    public int[] SelectionSort(int [] array)
+    {
+        
+        return array;
+    }
+    
 }
